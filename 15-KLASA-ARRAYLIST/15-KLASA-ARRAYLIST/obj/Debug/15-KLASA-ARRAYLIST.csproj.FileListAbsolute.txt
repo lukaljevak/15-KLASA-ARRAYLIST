@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\15-KLASA-ARRAYLIST\15-KLASA-ARRAYLIST\bin\Debug\15-KLASA-ARRAYLIST.exe.config
+C:\Users\Ucenik\source\repos\15-KLASA-ARRAYLIST\15-KLASA-ARRAYLIST\bin\Debug\15-KLASA-ARRAYLIST.exe
+C:\Users\Ucenik\source\repos\15-KLASA-ARRAYLIST\15-KLASA-ARRAYLIST\bin\Debug\15-KLASA-ARRAYLIST.pdb
+C:\Users\Ucenik\source\repos\15-KLASA-ARRAYLIST\15-KLASA-ARRAYLIST\obj\Debug\15-KLASA-ARRAYLIST.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\15-KLASA-ARRAYLIST\15-KLASA-ARRAYLIST\obj\Debug\_15_KLASA_ARRAYLIST.Form1.resources
+C:\Users\Ucenik\source\repos\15-KLASA-ARRAYLIST\15-KLASA-ARRAYLIST\obj\Debug\_15_KLASA_ARRAYLIST.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\15-KLASA-ARRAYLIST\15-KLASA-ARRAYLIST\obj\Debug\15-KLASA-ARRAYLIST.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\15-KLASA-ARRAYLIST\15-KLASA-ARRAYLIST\obj\Debug\15-KLASA-ARRAYLIST.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\15-KLASA-ARRAYLIST\15-KLASA-ARRAYLIST\obj\Debug\15-KLASA-ARRAYLIST.exe
+C:\Users\Ucenik\source\repos\15-KLASA-ARRAYLIST\15-KLASA-ARRAYLIST\obj\Debug\15-KLASA-ARRAYLIST.pdb
